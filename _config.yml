@@ -1,0 +1,11 @@
+# 基础配置
+title: 我的技术博客
+description: 记录学习笔记
+theme: minima  # 使用默认主题
+
+# 插件支持
+plugins:
+  - jekyll-feed
+
+# 自定义URL
+baseurl: "/blog"  # 网站变为 yourname.github.io/blog
