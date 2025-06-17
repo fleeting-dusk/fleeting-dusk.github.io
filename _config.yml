@@ -7,5 +7,3 @@ theme: minima  # 使用默认主题
 plugins:
   - jekyll-feed
 
-# 自定义URL
-baseurl: "/blog"  # 网站变为 yourname.github.io/blog
